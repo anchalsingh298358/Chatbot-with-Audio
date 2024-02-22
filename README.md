@@ -26,7 +26,7 @@ This Python-based Chatbot project introduces a versatile and interactive chatbot
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/chatbot-with-audio.git
+   https://github.com/anchalsingh298358/Chatbot-with-Audio.git
    ```
 
 2. Install dependencies:
